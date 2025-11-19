@@ -11,11 +11,5 @@
   "author": "Haja",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/haja/haja-demo-sdk.git"
-  },
-  "bugs": {
-    "url": "https://github.com/haja/haja-demo-sdk/issues"
-  },
-  "homepage": "https://github.com/haja/haja-demo-sdk#readme"
-}
+    "type": "git"
+  }}
