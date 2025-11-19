@@ -1,0 +1,21 @@
+{
+  "name": "haja-demo-sdk",
+  "version": "1.0.0",
+  "description": "Simple JavaScript SDK created by Haja",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": ["sdk", "demo", "haja"],
+  "author": "Haja",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haja/haja-demo-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haja/haja-demo-sdk/issues"
+  },
+  "homepage": "https://github.com/haja/haja-demo-sdk#readme"
+}
