@@ -1,6 +1,6 @@
 {
   "name": "haja-demo-sdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple JavaScript SDK created by Haja",
   "main": "index.js",
   "files": [
